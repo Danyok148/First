@@ -13,6 +13,7 @@ int main() {
     int secs = seconds % 60;
     cout << "Days: " << days << " Hours: " << hours << " Minutes: " << minutes << " Seconds: " << secs << endl;
 
+
     //  2
     cout << "Enter days, hours, minutes and seconds: ";
     cin >> days >> hours >> minutes >> secs;
